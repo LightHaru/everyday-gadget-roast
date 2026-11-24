@@ -1,0 +1,14 @@
+{
+  "name": "everyday-gadget-roast",
+  "version": "1.0.0",
+  "description": "One-line roast of an everyday gadget. make.fun program/v1 entry.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "start": "node main.ts",
+    "test": "node --test"
+  }
+}
